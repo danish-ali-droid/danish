@@ -1,0 +1,11 @@
+D:\My Desktop Application\AfaqProject\AfaqProject\bin\Debug\AfaqProject.exe.config
+D:\My Desktop Application\AfaqProject\AfaqProject\bin\Debug\AfaqProject.exe
+D:\My Desktop Application\AfaqProject\AfaqProject\bin\Debug\AfaqProject.pdb
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.csproj.AssemblyReference.cache
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.loginform.resources
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.Properties.Resources.resources
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.csproj.GenerateResource.cache
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.csproj.CoreCompileInputs.cache
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.exe
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.pdb
+D:\My Desktop Application\AfaqProject\AfaqProject\obj\Debug\AfaqProject.departmentcobobox.resources
